@@ -35,6 +35,7 @@ public class TingsActivity extends ActionBarActivity {
 
     TingAdapter tingAdapter;
     MenuItem refreshItem;
+    String newString;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
